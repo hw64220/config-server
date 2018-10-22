@@ -14,6 +14,6 @@ server:
 
 book:
   name: SpringCloudInAction
-  author: Alex
+  author: Alex-develop
   desc: ${book.author} is writing ${book.name}
 
