@@ -2,7 +2,7 @@ spring:
   application:
     name: feign-consumer
 server:
-  port: 8888
+  port: 9999
 eureka:
   client:
     service-url:
