@@ -1,0 +1,10 @@
+server:
+  port: 8881
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-peer1:10087/eureka/, http://eureka-peer1:10000/eureka/
+
+
+
