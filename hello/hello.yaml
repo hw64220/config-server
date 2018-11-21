@@ -11,7 +11,7 @@ server:
   port: 8880
 
 book:
-  name: SpringCloud-c1-c2-master1
+  name: SpringCloud-master
   author: Ben-master-c1
   desc: ${book.author} is writing ${book.name}
 
